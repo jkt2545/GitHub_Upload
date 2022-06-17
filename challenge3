@@ -1,0 +1,9 @@
+read_csv
+head import bitstamp
+
+str.replace($);
+convert data type = float
+// convert the data type into a float
+iloc select all data
+
+cumsum(bitstamp)
